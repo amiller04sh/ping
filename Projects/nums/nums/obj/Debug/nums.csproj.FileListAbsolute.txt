@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\bin\Debug\nums.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\nums\nums\obj\Debug\nums.pdb

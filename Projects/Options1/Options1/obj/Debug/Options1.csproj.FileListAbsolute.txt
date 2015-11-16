@@ -1,0 +1,9 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\bin\Debug\Options1.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\bin\Debug\Options1.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\bin\Debug\Options1.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.Form1.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.Properties.Resources.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.csproj.GenerateResource.Cache
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Options1\Options1\obj\Debug\Options1.pdb

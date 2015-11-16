@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheAddingForm0", "TheAddingForm0\TheAddingForm0.csproj", "{DE495720-4B84-4164-A61D-41C0FF1840C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE495720-4B84-4164-A61D-41C0FF1840C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE495720-4B84-4164-A61D-41C0FF1840C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE495720-4B84-4164-A61D-41C0FF1840C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE495720-4B84-4164-A61D-41C0FF1840C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

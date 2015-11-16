@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.exe.config
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.exe
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.pdb
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.csprojResolveAssemblyReference.cache
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.exe
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.pdb

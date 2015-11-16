@@ -1,0 +1,9 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\bin\Debug\AverageofFive.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\bin\Debug\AverageofFive.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\bin\Debug\AverageofFive.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.Form1.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.Properties.Resources.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.csproj.GenerateResource.Cache
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\AverageofFive\AverageofFive\obj\Debug\AverageofFive.pdb

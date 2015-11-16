@@ -1,0 +1,27 @@
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+c:\users\angel\documents\visual studio 2015\Projects\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\Angel\OneDrive\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\casting\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache

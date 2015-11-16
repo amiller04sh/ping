@@ -1,0 +1,9 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\bin\Debug\casting.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\bin\Debug\casting.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\bin\Debug\casting.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\obj\Debug\casting.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\obj\Debug\casting.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\casting\casting\obj\Debug\casting.pdb
+C:\Users\Angel\OneDrive\casting\casting\bin\Debug\casting.exe.config
+C:\Users\Angel\OneDrive\casting\casting\obj\Debug\casting.exe
+C:\Users\Angel\OneDrive\casting\casting\obj\Debug\casting.pdb

@@ -1,0 +1,9 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Debug\Captcha.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Debug\Captcha.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.Cache
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.pdb

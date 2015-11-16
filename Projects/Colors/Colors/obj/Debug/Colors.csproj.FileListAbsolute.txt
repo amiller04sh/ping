@@ -1,0 +1,10 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\Colors\Colors\bin\Debug\Colors.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\Colors\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\Colors\Colors\obj\Debug\Colors.Form1.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+c:\users\amiller04\documents\visual studio 2015\Projects\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache
+C:\Users\amiller04\OneDrive\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\amiller04\OneDrive\Colors\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+C:\Users\amiller04\OneDrive\Colors\Colors\obj\Debug\Colors.Form1.resources
+C:\Users\amiller04\OneDrive\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\amiller04\OneDrive\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache

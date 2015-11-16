@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\bin\Debug\magic8ball.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\bin\Debug\magic8ball.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\bin\Debug\magic8ball.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\obj\Debug\magic8ball.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\obj\Debug\magic8ball.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\magic8ball\magic8ball\obj\Debug\magic8ball.pdb

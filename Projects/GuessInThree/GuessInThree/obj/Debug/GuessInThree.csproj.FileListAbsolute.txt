@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\bin\Debug\GuessInThree.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\bin\Debug\GuessInThree.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\bin\Debug\GuessInThree.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\obj\Debug\GuessInThree.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\obj\Debug\GuessInThree.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\GuessInThree\GuessInThree\obj\Debug\GuessInThree.pdb

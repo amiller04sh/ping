@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\bin\Debug\AskGrades.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\bin\Debug\AskGrades.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\bin\Debug\AskGrades.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\obj\Debug\AskGrades.csprojResolveAssemblyReference.cache
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\obj\Debug\AskGrades.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\AskGrades\AskGrades\obj\Debug\AskGrades.pdb

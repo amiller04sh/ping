@@ -1,0 +1,6 @@
+c:\users\amiller04\documents\visual studio 2015\Projects\Math1\Math1\bin\Debug\Math1.exe.config
+c:\users\amiller04\documents\visual studio 2015\Projects\Math1\Math1\bin\Debug\Math1.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Math1\Math1\bin\Debug\Math1.pdb
+c:\users\amiller04\documents\visual studio 2015\Projects\Math1\Math1\obj\Debug\Math1.exe
+c:\users\amiller04\documents\visual studio 2015\Projects\Math1\Math1\obj\Debug\Math1.pdb
+C:\Users\amiller04\Documents\Visual Studio 2015\Projects\Math1\Math1\obj\Debug\Math1.csprojResolveAssemblyReference.cache
